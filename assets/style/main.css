@@ -758,6 +758,16 @@ footer table tr td {
   letter-spacing: 1px;
 }
 
+.info-icon{
+  text-decoration: none;
+  color: black;
+}
+
+.info-icon:hover{
+  color: #000;
+  text-decoration: none;
+ }
+
 footer .map{
   display: inline;
 }
