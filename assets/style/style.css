@@ -764,3 +764,12 @@ background: var(--darkblue-color);
     .floating-wpp {
         z-index: 5!important;
     }
+
+/* Terms and conditions */
+    .terms h3, p{
+      font-family: "Poppins", sans-serif;
+    }
+
+    .terms .info p {
+      margin: 1.5rem !important;
+    }
